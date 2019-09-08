@@ -1,0 +1,25 @@
+.cards {
+}
+
+.wrapper{
+  max-width: 1200px;
+  margin: auto;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
+
+p {
+  font-family: 'allerbold';
+  color: #ffffff;
+  text-align: center;
+  font-size: 44.46px;
+  margin: 10px auto
+}
+
+.arrow{
+  margin: 40px auto;
+  width: 100px;
+}
